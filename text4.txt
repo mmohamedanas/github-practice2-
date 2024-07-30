@@ -1,0 +1,2 @@
+text4.txt in git practice 2 folder
+how to upload this folder as a repository in git hub
